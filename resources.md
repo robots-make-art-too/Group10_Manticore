@@ -1,43 +1,62 @@
+# Group10_Manticore
+Group Project Phase1
+---
+Here is my 10 resources：
+---
+ 1. Here is a link about pubilc art :
+ https://akimbo.ca/listings/markham-public-art-presents-becoming-public-art-the-digital-turn-in-public-art/
+ 
+ 2. Book: Public Art/public Space: The Sculptural Environments of Barbara Grygutis(2016).
+https://books.google.ca/books/about/Public_Art_public_Space.html?id=1tbHsgEACAAJ&source=kp_book_description&redir_esc=y
 
-1. book: Mulholland, H. N., &amp; Smith, G. B. (2021). Visual processing: Systematic variation in light–dark bias across visual space. Current Biology, 31(18). 
-         https://doi.org/10.1016/j.cub.2021.07.057 
+
+ 3. Here is an article about computers are changing the way art is made :
+https://www.sciencenewsforstudents.org/article/computers-are-changing-how-art-is-made
+
+ 4. Daniel Roth Department of Computer Science, et al. “Technologies for Social Augmentations in User-Embodied Virtual Reality: 25th ACM Symposium on Virtual Reality Software and Technology.” ACM Conferences, 1 Nov. 2019, https://dl.acm.org/doi/10.1145/3359996.3364269. 
+
+ 5. Here is a websit about “Public Art Installations.” Entuitive, https://www.entuitive.com/services-list/public-art-installations/. 
+ 
+ 6. Python Classes/Objects:
+
+- Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods. A Class is like an object constructor, or a "blueprint" for creating objects.
+
+- here is an example: 
+
+class Person:
+
+  def __init__(self, name, age):
+
+    self.name = name
+
+    self.age = age
+
+p1 = Person("Bella", 21)
+
+print(p1.name)
+
+print(p1.age)
+
+(from the link ：https://www.w3schools.com/python/python_classes.asp)
+
+
+ 7. Here is an article about Build Interactivity Into Public Art:
+Rao, Shunyu. “Build Interactivity into Public Art: Technology Interventions.” AMT Lab @ CMU, AMT Lab @ CMU, 25 June 2020, https://amt-lab.org/blog/2020/6/build-interactivity-into-public-art-technology-interventions. 
+ 
+ 8. book: 
+ Cartiere, Cameron, and Shelly Willis. The Practice of Public Art. Routledge, 2014. 
+
+
+ 9. existing works:
+ https://www.architecturaldigest.com/gallery/11-most-fascinating-public-sculptures
+
+ 
+
+ 10. Here is a pdf article about Understanding of Sculpture as Public Art：
+ 
+ Toward an Understanding of ... - Marquette University. https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1062&amp;context=phil_fac. 
+ 
   
-2. book: Du Sautoy, M. (2019). Creativity code: Art and innovation in the age of ai. Cambridge: Harvard University Press. 
-     online link: https://ocul-yor.primo.exlibrisgroup.com/permalink/01OCUL_YOR/sqt9v/cdi_askewsholts_vlebooks_9780674240414
-
-3. book: Tomlinson, M., Tjhai, C. J., Ambroze, M. A., Ahmed, M., &amp; Jibril, M. (2018). Error-correction coding and decoding bounds, codes, decoders, analysis and applications. Springer International Publishing. 
-      online link: https://ocul-yor.primo.exlibrisgroup.com/permalink/01OCUL_YOR/sqt9v/cdi_oapen_doabooks_21386
-
-4. street art link :https://www.toronto.ca/services-payments/streets-parking-transportation/enhancing-our-streets-and-public-realm/streetartoronto/
-
-5. online link of HTML code:https://gist.github.com/old-campos/3870308
-
-6. The links: https://www.w3schools.com/html/html_quotation_elements.asp
-
-7. LINK: https://github.com/mrdoob/three.js
-
-8. 
-
-9. things I love: To learn something
-
-10. 
 
 
-
-
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Commented above by Siyu Pan
