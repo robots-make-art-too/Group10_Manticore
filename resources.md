@@ -1,7 +1,7 @@
 # Group10_tempname
-Group Project
+Group Project Phase1
 ---
-Here is my 10 resources：
+-Here is my 10 resources：
 ---
  1.
  2.
