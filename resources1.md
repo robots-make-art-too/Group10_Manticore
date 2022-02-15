@@ -27,23 +27,6 @@
 
 9. things I love: To learn something
 
+10. an artist: Cai Guoqiang https://caiguoqiang.com/
 
-
-
-
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Commented above by Xiaoling Yu
