@@ -1,4 +1,3 @@
-
 1. book: Mulholland, H. N., &amp; Smith, G. B. (2021). Visual processing: Systematic variation in light–dark bias across visual space. Current Biology, 31(18). 
          https://doi.org/10.1016/j.cub.2021.07.057 
   
@@ -16,28 +15,13 @@
 
 7. LINK: https://github.com/mrdoob/three.js
 
-8. 
+8. print("Python Code by Xiaoling Yu")
+   import sys
+   x1 = input("input x1: ")
+   x2 = input("input x2: ")
+   y1 = input("input y1: ")
+   y2 = input("input y2: ")
+   print("p1 = (" + x1 + "," + y1 + ") ")
+   print("p2 = (" + x2 + "," + y2 + ") ")
 
 9. things I love: To learn something
-
-10. 
-
-
-
-
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
