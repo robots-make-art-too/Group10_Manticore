@@ -24,6 +24,8 @@
    y2 = input("input y2: ")
    print("p1 = (" + x1 + "," + y1 + ") ")
    print("p2 = (" + x2 + "," + y2 + ") ")
+   
+Acording to the https://www.runoob.com/python/python-reg-expressions.html
 
 9. things I love: To learn something
 
