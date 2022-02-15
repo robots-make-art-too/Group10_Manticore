@@ -18,7 +18,7 @@
 
 8. 
 
-9. things you love: To learn something
+9. things I love: To learn something
 
 10. 
 
