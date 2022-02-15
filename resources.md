@@ -47,8 +47,15 @@ Rao, Shunyu. “Build Interactivity into Public Art: Technology Interventions.�
  Cartiere, Cameron, and Shelly Willis. The Practice of Public Art. Routledge, 2014. 
 
 
- 9. 
+ 9. existing works:
+ https://www.architecturaldigest.com/gallery/11-most-fascinating-public-sculptures
 
- 10. 
+ 
+
+ 10. Here is a pdf article about Understanding of Sculpture as Public Art：
+ 
+ Toward an Understanding of ... - Marquette University. https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1062&amp;context=phil_fac. 
+ 
+  
 
 
