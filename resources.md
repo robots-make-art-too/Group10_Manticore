@@ -1,4 +1,4 @@
-# Group10_tempname
+# Group10_Manticore
 Group Project Phase1
 ---
 Here is my 10 resources：
