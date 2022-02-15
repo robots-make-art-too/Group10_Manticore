@@ -13,4 +13,4 @@ Xiaoling Yu
 - Contact Xiaoling Yu#8800 on discord
 
 Zirui Zhou(Arthur)
--Contact Arthur Zhou#6866 on discord
+- Contact Arthur Zhou#6866 on discord
