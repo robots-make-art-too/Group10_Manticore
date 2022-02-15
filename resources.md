@@ -20,13 +20,6 @@ https://www.sciencenewsforstudents.org/article/computers-are-changing-how-art-is
  6. Python Classes/Objects:
 <<<<<<< HEAD
 -- Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods. A Class is like an object constructor, or a "blueprint" for creating objects.
-=======
-Python is an object oriented programming language.
-
-Almost everything in Python is an object, with its properties and methods.
-
-A Class is like an object constructor, or a "blueprint" for creating objects.
->>>>>>> 6bac74d413f41e99ba4d0914a00c1784223e130e
 
 - here is an example: 
 class Person:
