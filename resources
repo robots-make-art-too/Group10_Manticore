@@ -1,5 +1,61 @@
-Things I hate: hopeless and repetitive daily life with no creations
-Things I love: Writing novel
-People I admire: Lu Xun
-"Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end."- Mandela
-FREE MANDELA! ---- http://justseeds.org/wp-content/uploads/old/blog/images/peoplespower_safrica-thumb.jpg
+1.Things I hate: hopeless and repetitive daily life with no creations
+
+2.Things I love: Writing novel
+
+3.People I admire: Lu Xun
+
+4."Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end."- Mandela
+
+5.FREE MANDELA! ---- http://justseeds.org/wp-content/uploads/old/blog/images/peoplespower_safrica-thumb.jpg
+
+6.Python Indentation:
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+Python uses indentation to indicate a block of code.
+https://www.w3schools.com/python/python_syntax.asp
+
+7.Python Variables:
+x = 1, y = str, no need for 'int' and 'String', but could also be specified by adding int() or str().
+So x = int(1) is different from x = str(1), the outprint value will be x = 1 and x = '1'
+https://www.w3schools.com/python/python_variables.asp
+
+8.Python Variables:
+Unpacking a collection:
+fruits = ["Banana, Apple, Pineapple"]
+x = y = z = fruits
+Print(x,y,z)
+Banana
+Apple
+Pineapple
+https://www.w3schools.com/python/python_variables.asp
+
+9.Python Variables:
+Global Variabrls:
+x = 'awesome'
+
+def myfun()
+  x = 'fantastic'
+  print("Python is" + x)
+  
+mufun()
+
+print("Python is" + x)
+
+The result will be:
+Python is fantastic
+Python is awesome
+https://www.w3schools.com/python/python_variables.asp
+
+10.Python number type:
+int, float and complex.
+x = int(2.8)
+y = float(1)
+z = complex(x)
+
+print(x,y,z)
+
+result:
+2
+1.0
+1 + 0j
+https://www.w3schools.com/python/python_numbers.asp
