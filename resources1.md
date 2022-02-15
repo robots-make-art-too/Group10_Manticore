@@ -16,11 +16,17 @@
 
 7. LINK: https://github.com/mrdoob/three.js
 
-8. 
+8. print("Python Code by Xiaoling Yu")
+   import sys
+   x1 = input("input x1: ")
+   x2 = input("input x2: ")
+   y1 = input("input y1: ")
+   y2 = input("input y2: ")
+   print("p1 = (" + x1 + "," + y1 + ") ")
+   print("p2 = (" + x2 + "," + y2 + ") ")
 
 9. things I love: To learn something
 
-10. 
 
 
 
