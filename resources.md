@@ -40,9 +40,12 @@ print(p1.age)
 (from the link ：https://www.w3schools.com/python/python_classes.asp)
 
 
- 7. 
+ 7. Here is an article about Build Interactivity Into Public Art:
+Rao, Shunyu. “Build Interactivity into Public Art: Technology Interventions.” AMT Lab @ CMU, AMT Lab @ CMU, 25 June 2020, https://amt-lab.org/blog/2020/6/build-interactivity-into-public-art-technology-interventions. 
+ 
+ 8. book: 
+ Cartiere, Cameron, and Shelly Willis. The Practice of Public Art. Routledge, 2014. 
 
- 8. 
 
  9. 
 
