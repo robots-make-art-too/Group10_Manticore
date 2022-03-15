@@ -11,3 +11,6 @@ Siyu Pan
 
 Xiaoling Yu
 - Contact Xiaoling Yu#8800 on discord
+
+Zirui Zhou
+-Contact Arthur Zhou#6866 on discord
