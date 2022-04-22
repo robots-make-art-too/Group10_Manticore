@@ -12,10 +12,11 @@ ARModel.prototype.speak = function() {
 
 
 //Character model
-function Character(name, dialogue, tool, successDialogue) {
+function Character(name, dialogue, tool, successDialogue, failedDialogue) {
     ARModel.call(this, name, dialogue);
     this.tool = tool;
     this.successDialogue = successDialogue;
+    this.failedDialogue = failedDialogue;
 }
 Character.prototype = Object.create(ARModel.prototype);
 
@@ -32,13 +33,13 @@ Tool.prototype = Object.create(ARModel.prototype);
 function initiateModels() {
     var charactersArray = [
       {
-        name: 'bowser',
-        dialogue: 'Hi there, I\'m Bowser! I\'ve lost my skull. Let me know if you see it!',
-        tool: new Tool('skull', 'You have found Bowser\'s skull!'),
+        name: 'Monster',
+        dialogue: 'RAAUUUH(You heard the roar sound of the monster, see the scary appearance of the craws, you decides to )',
+        tool: new Tool('Chest', 'You have found Bowser\'s skull!'),
         successDialogue: 'Thanks for my skull!'
       },
       {
-        name: 'chocobo',
+        name: 'Witch',
         dialogue: 'sqauak squaaak SQUAKKKKK',
         tool: new Tool('seeds', 'You have found Chocobo\'s bird seed!'),
         successDialogue: 'Squeek! Yum!'
